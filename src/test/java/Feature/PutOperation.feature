@@ -1,4 +1,4 @@
-Feature: PUT feature 
+Feature: PUT feature 1
 
 Background:
 

@@ -1,4 +1,4 @@
-Feature: POST feature 
+Feature: POST feature 1
 
 Background:
 
