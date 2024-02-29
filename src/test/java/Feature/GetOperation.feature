@@ -1,4 +1,4 @@
-Feature: GET feature 1
+Feature: GET features
 
 
 Scenario: Get id's of all booking

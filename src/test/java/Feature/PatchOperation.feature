@@ -1,4 +1,4 @@
-Feature: PATCH feature 1
+Feature: PATCH features
 
 Background:
 

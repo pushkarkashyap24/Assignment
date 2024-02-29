@@ -1,4 +1,4 @@
-Feature: DELETE feature 1
+Feature: DELETE features
 
 Background:
 
